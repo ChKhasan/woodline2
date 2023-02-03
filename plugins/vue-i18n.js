@@ -1,0 +1,1 @@
+export const i18na = localStorage.getItem("Lang")

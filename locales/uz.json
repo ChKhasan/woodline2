@@ -1,0 +1,82 @@
+{
+  "navbar": {
+    "home": "Asosiy",
+    "category": "Katalog",
+    "company": "Kompaniya haqida",
+    "contact": "Aloqa"
+  },
+  "company": {
+    "title": "Bizning kompaniyamiz",
+    "ourTeam": "Bizning Jamoamiz",
+    "place": "O'zingiz yoqtirgan mashg'ulot uchun joy ajratilgan bo'lsa, buni amalga oshirishingiz ehtimolini oshiradi."
+  },
+  "homepage": {
+    "buynow": "Xarid qilish",
+    "shownow": "Hozir ko'rsatish",
+    "ourProducts": "Bizning mahsulotlarimiz",
+    "recentPosts": "Oxirgi xabarlar"
+  },
+  "contact": {
+    "card": {
+      "telegram": "Bizning do'konimizni Telegramda kuzatib boring",
+      "instagram": "Bizning do'konimizni Instagramda kuzatib boring",
+      "youtube": "Bizning do'konimizni You Tubeda kuzatib boring",
+      "facebook": "Bizning do'konimizni Facebookda kuzatib boring",
+      "learnMore": "KO'PROQ MA'LUMOT OLISH"
+    },
+    "contact": "Aloqa",
+    "contactUs": "Biz bilan bog'lanish",
+    "formTitle": "Sizdan xabar olsak xursand bo'lardik.",
+    "formText": "Agar sizda ishlab chiqaradigan ajoyib mahsulotlaringiz bo'lsa yoki biz bilan ishlashni xohlasangiz, biz bilan bog'laning.",
+    "yourName": "Sizning ismingiz*",
+    "save": "Keyingi sharhingiz uchun ismim, telefon nomerim va veb-saytimni ushbu brauzerda saqlang.",
+    "sendNow": "hozir yuborish",
+    "address": "Manzil",
+    "info": "Ma `lumot"
+  },
+  "footer": {
+    "menu": "MENYU",
+    "home": "Asosiy",
+    "category": "Katalog",
+    "company": "Kompaniya haqida",
+    "contact": "Aloqa",
+    "posts": "Xabarlar",
+    "categories": "KATEGORIYALAR",
+    "security": "Barcha huquqlar himoyalangan."
+  },
+  "posts": {
+    "allposts": "Barcha xabarlar",
+    "search": "Qidirish",
+    "posts": "Xabarlar"
+  },
+  "product": {
+    "desc": "Tavsif",
+    "count": "Miqdori:",
+    "name": "Ism*",
+    "yourName": "Ismingizni kiriting",
+    "phoneNumber": "Telefon raqami*",
+    "send": "Yuborish",
+    "callBack": "Qayta qo'ng'iroq qilish:",
+    "lastProducts": "Eng so'nggi mahsulotlar"
+  },
+  "breadCrumbCategory": {
+    "allProducts": "Barcha mahsulotlar",
+    "home": "Asosiy"
+  },
+  "categories": {
+    "categories": "Mahsulot toifalari",
+    "allProducts": "Barcha mahsulotlar",
+    "search": "Qidirish"
+  },
+  "post": {
+    "prev": "OLDINGI",
+    "next": "KEYINGISI",
+    "lastPosts": "Oxirgi xabarlar",
+    "breadC": "Xabarlar"
+  },
+  "products": {
+    "categoriesTitle": "Mahsulot toifalari",
+    "allProducts": "Barcha mahsulotlar",
+    "search": "Qidirish"
+  }
+}
