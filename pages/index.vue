@@ -14,7 +14,7 @@
         <ProductCard
           v-for="(item, index) in products"
           data-aos="fade-up"
-          data-aos-duration="900"
+          data-aos-duration="700"
           :data-aos-delay="(1 + ((index * 1) % 4)) * 100"
           :hide="true"
           :product="item"
